@@ -1,25 +1,21 @@
-# Binary Logistic_Regression
-Complete your assignment in [binary_logistic_regression.ipynb](binary_logistic_regression.ipynb)
+# Binary Classifier
+Complete your assignment in [binary_classifier.ipynb](binary_classifier.ipynb)
 
-## Python Environment Setup Guide
+# Brinary Classification Examples
 
-It is recommended to manage your Python environments using [uv](https://docs.astral.sh/uv/)
+## Setup Python Environment
+> [!TIP]
+> It is recommended to manage your Python environments using [uv](https://docs.astral.sh/uv/).
+> Not installed? Follow the official [installation guide](https://docs.astral.sh/uv/getting-started/installation/).
 
-> Refer to the official installation [guide](https://docs.astral.sh/uv/getting-started/installation/)
-
-### Dependencies
-
-A few Python packages are required to complete this assignment.
-
-- Option 1: install with uv
-
+In terminal, synchronize example dependencies
 ```console
 uv sync
 ```
 
-- Option 2: install with pip
-
-```console
-pip install ipykernel numpy matplotlib scikit-learn
-```
+> [!TIP]
+> Hate uv? Install dependencies with old fashion:
+> ```console
+> pip install ipykernel numpy matplotlib scikit-learn
+> ```
 
