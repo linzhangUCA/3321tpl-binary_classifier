@@ -1,8 +1,6 @@
 # Binary Classifier
 Complete your assignment in [binary_classifier.ipynb](binary_classifier.ipynb)
 
-# Brinary Classification Examples
-
 ## Setup Python Environment
 > [!TIP]
 > It is recommended to manage your Python environments using [uv](https://docs.astral.sh/uv/).
